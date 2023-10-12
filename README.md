@@ -1,5 +1,5 @@
 
-# Merhaba, Ben Rümeysa Kübra BAYSAL 👋
+# Merhaba, Ben Rümeysa BAYSAL 👋
 
 ## Hakkımda
 
