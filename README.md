@@ -1,16 +1,10 @@
 👋 Merhaba,Ben Rümeysa BAYSAL.
 
-🧕 Ben bir Frontend Developer'ım ve HTML, CSS, JavaScript ve React konularında deneyime sahibim. Öğrenmeye açık biriyim, takım çalışmasını seviyor ve teknoloji dünyasındaki yenilikleri yakından takip ediyorum.
+🧕 Frontend Developer olarak HTML, CSS, JavaScript ve React konularında deneyim sahibiyim. Öğrenmeye her zaman açığım ve teknoloji dünyasındaki gelişmeleri takip etmeyi seviyorum. Takım çalışmasına önem veriyor ve kendimi sürekli güncel tutmaya özen gösteriyorum.
 
-🚀 Web Geliştirme:HTML, CSS, JavaScript
-
-    React:Modern web uygulamaları geliştirmek için React'i kullanıyorum.
+🚀 HTML, CSS, JavaScript,React
    
-    Tasarım:Kullanıcı dostu ve görsel açıdan çekici web arayüzleri tasarlayabiliyorum.
-   
-📂 GitHub'da çeşitli projeler geliştiriyorum. İşte bazı örnekler:
-   ......
-   Daha fazla projemi GitHub profilimde bulabilirsiniz.
+📂 GitHub'da çeşitli projeler geliştiriyorum, GitHub profilimde bulabilirsiniz.
    
 🙏 Projelerimi incelemek için zaman ayırdığınız için minnettarım. İyi günler! 😊
 
