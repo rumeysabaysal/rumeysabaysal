@@ -4,9 +4,9 @@
 
 🚀 Web Geliştirme:HTML, CSS, JavaScript
 
-   React:Modern web uygulamaları geliştirmek için React'i kullanıyorum.
+    React:Modern web uygulamaları geliştirmek için React'i kullanıyorum.
    
-   Tasarım:Kullanıcı dostu ve görsel açıdan çekici web arayüzleri tasarlayabiliyorum.
+    Tasarım:Kullanıcı dostu ve görsel açıdan çekici web arayüzleri tasarlayabiliyorum.
    
 📂 GitHub'da çeşitli projeler geliştiriyorum. İşte bazı örnekler:
    ......
