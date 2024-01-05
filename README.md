@@ -1,4 +1,4 @@
-👋 Merhaba,Ben Rümeysa BAYSAL.
+👋 Merhaba,Ben Rümeysa.
 
 🧕 Frontend Developer olarak HTML, CSS, JavaScript ve React konularında deneyim sahibiyim. Öğrenmeye her zaman açığım ve teknoloji dünyasındaki gelişmeleri takip etmeyi seviyorum. Takım çalışmasına önem veriyor ve kendimi sürekli güncel tutmaya özen gösteriyorum.
    
@@ -8,7 +8,7 @@
    
 🙏 Projelerimi incelemek için zaman ayırdığınız için teşekkür ederim. İyi günler! 😊
 
-Rümeysa Baysal
+Rümeysa
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rays.1821) 
